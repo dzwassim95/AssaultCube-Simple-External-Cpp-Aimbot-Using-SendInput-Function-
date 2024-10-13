@@ -1,2 +1,2 @@
-# AssaultCube
-External
+This is my first programe i make , it's a simple external aimbot for AssaultCube game version **1.3.0.2** .  
+I used `SendInput()` function for moving the mouse, you can replace the `SendInput()` function with `mouse_event ` function pretty easly since they both need a calculated 2D distance to the target's position, the next time i will make this aimbot using the `CalcAngle` function, you may wonder why i'm using `ImGui`, well i was planning to make a multihack for this game soon , so i need that for the ESP, This aimbot doesn't include visibility check because i need to go internal for that since external Vchecks are not that good, i will include visibility check in the near future when i have the required knowledge to do it, That's it , to use the aimbot, you can open the game then open the aimbot.
