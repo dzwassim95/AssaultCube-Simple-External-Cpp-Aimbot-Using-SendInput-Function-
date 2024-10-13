@@ -1,3 +1,4 @@
+- You need to add imGui dependencies and include them if you want to compile the aimbot.
 - This is my first programe i make , it's a simple external aimbot for AssaultCube game version **1.3.0.2** .  
 - I used `SendInput()` function for moving the mouse.  
 - you can replace the `SendInput()` function with `mouse_event ` function pretty easly since they both need a calculated 2D distance to the target's position.  
